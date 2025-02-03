@@ -1,4 +1,4 @@
-<img width="960" alt="KG Coding_YT Thumbnail (6)" src="https://github.com/KG-Coding-with-Prashant-Sir/C_Complete_YouTube/assets/102736197/8f962239-7898-4829-a1e8-bf4b92029ff6">
+<!-- <img width="960" alt="KG Coding_YT Thumbnail (6)" src="https://github.com/KG-Coding-with-Prashant-Sir/C_Complete_YouTube/assets/102736197/8f962239-7898-4829-a1e8-bf4b92029ff6"> -->
 
 - [🚀🔥 100+ C Programming Challenges 💯 for Beginners (2024)](https://youtu.be/vLhaqQLj6KQ)
 - [🚀🔥 C Complete Course Single Shot with Certification](https://youtu.be/p0QUmC2WJwM)
